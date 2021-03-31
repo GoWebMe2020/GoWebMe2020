@@ -1,13 +1,22 @@
 JP Ferreira
 ======
 
-# Projects
+## Projects
 
 |        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
 |:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
 |Mrs. T's Creations         | Frontend development of an online store        | HTML; CSS; Javascript        | [Mrs. T's Creations](https://www.mrstcreations.co.uk)           |
 |Mill Harbour               | Frontend of a construction project info hub    | HTML; CSS; Javascript        | [Mill Habrour Project Hub](https://www.millharbourproject.co.uk)|
 
+## Experience
+
+## Skills
+
+## Education
+
+## Hobbies
+
+## Contact & Profiles
 
 
 Hi, my name is JP Ferreira and this is GoWebMe
