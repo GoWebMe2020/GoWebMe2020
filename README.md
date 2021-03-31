@@ -19,7 +19,7 @@ JP Ferreira
 
 ## Contact & Profiles<a name="cont_prof"></a>
 
-![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg=20x20)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="100" height="100"/>
 
 Hi, my name is JP Ferreira and this is GoWebMe
 
