@@ -1,6 +1,6 @@
 JP Ferreira
 ======
-[Projects](#projects)
+[Projects](#proj) | [Experience](#exp) | [Skills](#ski) | [Education](#edu) | [Hobbies](#hob) | [Contact & Profiles](#cont_prof)
 
 ## Projects<a name="projects"></a>
 
@@ -9,15 +9,15 @@ JP Ferreira
 |Mrs. T's Creations         | Frontend development of an online store        | HTML; CSS; Javascript        | [Mrs. T's Creations](https://www.mrstcreations.co.uk)           |
 |Mill Harbour               | Frontend of a construction project info hub    | HTML; CSS; Javascript        | [Mill Habrour Project Hub](https://www.millharbourproject.co.uk)|
 
-## Experience
+## Experience<a name="exp"></a>
 
-## Skills
+## Skills<a name="ski"></a>
 
-## Education
+## Education<a name="edu"></a>
 
-## Hobbies
+## Hobbies<a name="hob"></a>
 
-## Contact & Profiles
+## Contact & Profiles<a name="cont_prof"></a>
 
 
 Hi, my name is JP Ferreira and this is GoWebMe
