@@ -19,7 +19,7 @@ JP Ferreira
 
 ## Contact & Profiles<a name="cont_prof"></a>
 
-![GitHub](https://mpng.subpng.com/20180622/pof/kisspng-github-computer-icons-icon-design-desktop-wallpape-5b2dbc1937a659.564564351529723929228.jpg)
+![GitHub](https://mpng.subpng.com/20180622/pof/kisspng-github-computer-icons-icon-design-desktop-wallpape-5b2dbc1937a659.564564351529723929228.jpg =20x20)
 
 Hi, my name is JP Ferreira and this is GoWebMe
 
