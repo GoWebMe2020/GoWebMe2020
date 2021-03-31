@@ -1,5 +1,7 @@
-#JP Ferreira
+JP Ferreira
 ======
+
+#Projects
 
 Hi, my name is JP Ferreira and this is GoWebMe
 
