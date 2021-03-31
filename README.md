@@ -1,7 +1,8 @@
 JP Ferreira
 ======
+[Projects](#projects)
 
-## Projects
+## Projects<a name="projects"></a>
 
 |        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
 |:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
