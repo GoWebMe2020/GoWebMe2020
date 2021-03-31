@@ -6,9 +6,13 @@ JP Ferreira
 |        Project Name       |               Description               |          Tech Tools          |                      Live Link                       |
 |:-------------------------:|-----------------------------------------|:----------------------------:|:----------------------------------------------------:|
 |Mrs. T's Creations         | This was the frontend development of an | HTML; CSS; Javascript        | [Mrs. T's Creations](https://www.mrstcreations.co.uk)|
-|                           | online store for a small local business |                              |                                                      |
-|                           | that personalised various items as gifts|                              |                                                      |
-|                           | or table displays.                      |                              |                                                      |
+|                             online store for a small local business 
+|                             that personalised various items as gifts
+|                             or table displays.                      
+|Mrs. T's Creations         | This was the frontend development of an | HTML; CSS; Javascript        | [Mrs. T's Creations](https://www.mrstcreations.co.uk)|
+|                             online store for a small local business 
+|                             that personalised various items as gifts
+|                             or table displays.                      
 
 
 Hi, my name is JP Ferreira and this is GoWebMe
