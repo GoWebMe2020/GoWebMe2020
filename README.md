@@ -58,22 +58,11 @@ Express:   ![55%](https://progress-bar.dev/55/?width=500)<br>
 
 ## Contact & Profiles<a name="cont_prof"></a>
 
-<img src="https://spng.pngfind.com/pngs/s/19-198873_github-icon-black-background-hd-png-download.png" width="20" height="20"/>
-<img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/142_Github-512.png" width="20" height="20"/> [GitHub](https://github.com/GoWebMe2020) &emsp; &emsp;
+<img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> [Codewars](https://www.codewars.com/users/jpferreira1982) &emsp; &emsp;
+<img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="20" height="20"/> [Twitter](https://twitter.com/GoWebMe) &emsp; &emsp;
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/jpferreira1982/) &emsp; &emsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" width="20" height="20"/> [Instagram](https://www.instagram.com/gowebme/) &emsp; &emsp;
+<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [Email: jpferreira1982@gmail.com](jpferreira1982@gmail.com)
 
-Hi, my name is JP Ferreira and this is GoWebMe
 
-I’m currently changing my career from being a Construction Manager to fulltime developer. I'm interested in in learning as much as I possibly can at the moment.
-I have been coding with HTML, CSS and JavaScript for the past year. Of late, I have started learning Ruby as I am starting the Makers Acedemy course on the 29th of March 2020.
-
-I will be adding any projects I complete into my repository and I will keep this up to date. I will appreciate any help I can get.
-
-📫 You can get hold of me on 
-twitter - https://twitter.com/GoWebMe
-GitHub - https://github.com/GoWebMe2020
-
-Other Profiles
-
-Codewars - https://www.codewars.com/users/jpferreira1982
-
-I hope to be able to work with you or collborate with you soon.
