@@ -1,8 +1,8 @@
 JP Ferreira
 ======
-|   [Projects](#proj)   |   [Experience](#exp)   |   [Skills](#ski)   |   [Education](#edu)   |   [Hobbies](#hob)   |   [Contact & Profiles](#cont_prof)   |
-
-
+|&emsp; &emsp; [Projects](#proj) &emsp; &emsp;|&emsp; &emsp; [Experience](#exp) &emsp; &emsp;|&emsp; &emsp; [Skills](#ski) &emsp; &emsp;|&emsp; &emsp; [Education](#edu) &emsp; &emsp;|&emsp; &emsp; [Hobbies](#hob) &emsp; &emsp;|&emsp; &emsp; [Contact & Profiles](#cont_prof) &emsp; &emsp;|
+<br>
+<br>
 Trying to follow my passion, put my imagination to work and create applications and software for the world to enjoy. I have a very strong construction background, having worked in various industry sectors from residential build, to petro-chemical and power generation, in South Africa, Botswana, Mozambique and the UK. I have gained a lot of valuable soft skills including, 
 - Good communcation, 
 - Team work, 
@@ -17,9 +17,11 @@ I have always been fascinated with technology and how the tech world continues t
 
 I am an extrovert, I like to be able to physically see the result of my hard work and I am unbelievably eager to learn. I am very excited to be part of the Makers April 2020 cohort and very much looking forward to networking and working with likeminded people. Head down to the contacts section and lets connect. Can't wait!
 
+<br>
 
 ## Projects<a name="proj"></a>
 
+<br>
 
 |        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
 |:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
@@ -28,35 +30,89 @@ I am an extrovert, I like to be able to physically see the result of my hard wor
 |24/7 Mobile Tyre Fitting   | Complete website for a mobile tyre fitting organisation | WordPress | [24/7 Mobile Tyre Fitting](https://emergency24mobiletyrefitting.co.uk/)   |
 |OlyBet                     | Covert JSON data to automatically populate a styled website as it changes| HTML; CSS; JavaScript | [OlyBet Sports](https://www.olybet.eu/sports)|
 
+<br>
 
 ## Experience<a name="exp"></a>
 
+<br>
 
 When I finished school, construction was the only industry employing in the very small town I grew up in. So I became a **Structural and Pipe Welder** for a large construction company called Grinaeker LTA. After some time, once I had saved enough, I had the choice of studying either Quality Control or Health and Safety. As Health and Safety was in demand, I decided to study towards that.
 
 After completing my training, I got a job as a **Junior Health and Safety Representative** in 2001 for a Mechanical & Electrical contractor. After a year my contract ended and I then worked for Wetback Contractors who promoted me to **Health and Safety Advisor**. My end goal was to work for a company called NOSA as a **Health and Safety Consultant, Auditor and Trainer** which I achieved. I ended up working for them for nearly 10 years and was promoted to a **Regional Manager**. In 2015, I spent some time in the Netherlands and finally moved to the UK where I continued my career at Dornan Engineering and Ballymore Construction as a **Health, Safety and Logistics Construction Manager** (a mouth full really).
   
 Since February 2020, I have been learning how to code. I completed a few online courses through Udemy, FreeCodeCamp, Codecademy, etc. and I have also followed some online professionals that have presented very valuable courses and code-alongs. I have learnt how to google and research things very well. In my spare time I practice as much as I can and try to develop my own webpages or applications. Even if it is creating a simple register and login webpage using passport. I have also developed live websites (which you can visit!). I really enjoy putting in the work and then seeing the outcome. It is very rewarding. 
+<br>
 
 ## Skills<a name="ski"></a>
 
-I have recently
+<br>
+Below are some of the technologies that I have and a barchart indicating how confident I am using these technologies. I have enjoyed using these technologies and I am excited to add more and improve my abilities. 
 
-HTML:   ![90%](https://progress-bar.dev/90/?width=500)<br>
-CSS:   ![85%](https://progress-bar.dev/85/?width=500)<br>
-JavaScript:   ![65%](https://progress-bar.dev/65/?width=500)<br>
-Ruby:   ![60%](https://progress-bar.dev/60/?width=500)<br>
-nodeJS:   ![40%](https://progress-bar.dev/40/?width=500)<br>
-PHP:   ![20%](https://progress-bar.dev/20/?width=500)<br>
-AWS:   ![35%](https://progress-bar.dev/35/?width=500)<br>
-Express:   ![55%](https://progress-bar.dev/55/?width=500)<br>
-
+HTML:&emsp;![90%](https://progress-bar.dev/90/?width=500)<br>
+CSS:&emsp;![85%](https://progress-bar.dev/85/?width=500)<br>
+JavaScript:&emsp;![75%](https://progress-bar.dev/65/?width=500)<br>
+Ruby:&emsp;![60%](https://progress-bar.dev/60/?width=500)<br>
+nodeJS:&emsp;![60%](https://progress-bar.dev/40/?width=500)<br>
+PHP:&emsp;![30%](https://progress-bar.dev/20/?width=500)<br>
+AWS:&emsp;![40%](https://progress-bar.dev/35/?width=500)<br>
+Express:&emsp;![60%](https://progress-bar.dev/55/?width=500)<br>
 
 ## Education<a name="edu"></a>
 
+### ***Makers*** (Started April 2021)
+<br>
+Looking to succesfully complete the Makers Academy Bootcamp on the 16th of July 2021.
+<br>
+
+### ***NVQ Level 6 Health and Safety Mamagement Practice***
+<br>
+This qualification assures the knowledge of those who influence health and safety standards within their organisations.
+<br>
+<details closed>
+<summary>Course Content</summary>
+<br>
+  <ul>
+    <li>Promote a positive Health and Safety culture</li>
+    <li>Develop and implement the Health and Safety policy</li>
+    <li>Develop and implement effective communication systems for Health and Safety information</li>
+    <li>Develop and maintain individual and organisational competence in Health and Safety matters</li>
+    <li>Identify, access and control Health and Safety risks</li>
+    <li>Develop and implement proactive monitoring systems for Health and Safety</li>
+    <li>Develop and implement reactive monitoring systems for Health and Safety</li>
+    <li>Develop and implement Health and Safety emergency response systems and procedures</li>
+    <li>Develop and implement Health and Safety review systems</li>
+    <li>Maintain knowledge of improvements to influence health and safety practice</li>
+  </ul>
+</details>
+<br>
+
+### ***NVQ Level 6 Construction Operations Management***
+<br>
+This qualification assures the knowledge of those who influence health and safety standards within their organisations.
+<br>
+<details closed>
+<summary>Course Content</summary>
+<br>
+  <ul>
+    <li>Maintain health, safety and welfare systems in construction</li>
+    <li>Manage the performance of teams and individuals in construction</li>
+    <li>Chair meetings and take decisions in construction</li>
+    <li>Enhance working relationships in construction</li>
+    <li>Specify and control production documents in construction</li>
+    <li>Identify, assess and evaluate project requirements in construction</li>
+    <li>Evaluate and confirm work methods and programme in construction</li>
+    <li>Ascertain the condition of property in construction</li>
+  </ul>
+</details>
+<br>
+
 ## Hobbies<a name="hob"></a>
+<br>
+
+<br>
 
 ## Contact & Profiles<a name="cont_prof"></a>
+<br>
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/142_Github-512.png" width="20" height="20"/> [GitHub](https://github.com/GoWebMe2020) &emsp; &emsp;
 <img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> [Codewars](https://www.codewars.com/users/jpferreira1982) &emsp; &emsp;
