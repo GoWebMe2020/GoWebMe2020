@@ -63,6 +63,6 @@ Express:   ![55%](https://progress-bar.dev/55/?width=500)<br>
 <img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="20" height="20"/> [Twitter](https://twitter.com/GoWebMe) &emsp; &emsp;
 <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/jpferreira1982/) &emsp; &emsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" width="20" height="20"/> [Instagram](https://www.instagram.com/gowebme/) &emsp; &emsp;
-<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [Email: jpferreira1982@gmail.com](jpferreira1982@gmail.com)
+<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [Email: jpferreira1982@gmail.com](mailto:jpferreira1982@gmail.com)
 
 
