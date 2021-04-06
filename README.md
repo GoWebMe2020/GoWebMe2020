@@ -17,11 +17,7 @@ I have always been fascinated with technology and how the tech world continues t
 
 I am an extrovert, I like to be able to physically see the result of my hard work and I am unbelievably eager to learn. I am very excited to be part of the Makers April 2020 cohort and very much looking forward to networking and working with likeminded people. Head down to the contacts section and lets connect. Can't wait!
 
-<br>
-
 ## Projects<a name="proj"></a>
-
-<br>
 
 |        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
 |:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
@@ -30,32 +26,30 @@ I am an extrovert, I like to be able to physically see the result of my hard wor
 |24/7 Mobile Tyre Fitting   | Complete website for a mobile tyre fitting organisation | WordPress | [24/7 Mobile Tyre Fitting](https://emergency24mobiletyrefitting.co.uk/)   |
 |OlyBet                     | Covert JSON data to automatically populate a styled website as it changes| HTML; CSS; JavaScript | [OlyBet Sports](https://www.olybet.eu/sports)|
 
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical)
 
 ## Experience<a name="exp"></a>
-
-<br>
 
 When I finished school, construction was the only industry employing in the very small town I grew up in. So I became a **Structural and Pipe Welder** for a large construction company called Grinaeker LTA. After some time, once I had saved enough, I had the choice of studying either Quality Control or Health and Safety. As Health and Safety was in demand, I decided to study towards that.
 
 After completing my training, I got a job as a **Junior Health and Safety Representative** in 2001 for a Mechanical & Electrical contractor. After a year my contract ended and I then worked for Wetback Contractors who promoted me to **Health and Safety Advisor**. My end goal was to work for a company called NOSA as a **Health and Safety Consultant, Auditor and Trainer** which I achieved. I ended up working for them for nearly 10 years and was promoted to a **Regional Manager**. In 2015, I spent some time in the Netherlands and finally moved to the UK where I continued my career at Dornan Engineering and Ballymore Construction as a **Health, Safety and Logistics Construction Manager** (a mouth full really).
   
 Since February 2020, I have been learning how to code. I completed a few online courses through Udemy, FreeCodeCamp, Codecademy, etc. and I have also followed some online professionals that have presented very valuable courses and code-alongs. I have learnt how to google and research things very well. In my spare time I practice as much as I can and try to develop my own webpages or applications. Even if it is creating a simple register and login webpage using passport. I have also developed live websites (which you can visit!). I really enjoy putting in the work and then seeing the outcome. It is very rewarding. 
-<br>
 
 ## Skills<a name="ski"></a>
 
-<br>
 Below are some of the technologies that I have and a barchart indicating how confident I am using these technologies. I have enjoyed using these technologies and I am excited to add more and improve my abilities. 
+<br>
+<br>
 
-HTML:&emsp;![90%](https://progress-bar.dev/90/?width=500)<br>
-CSS:&emsp;![85%](https://progress-bar.dev/85/?width=500)<br>
-JavaScript:&emsp;![75%](https://progress-bar.dev/65/?width=500)<br>
-Ruby:&emsp;![60%](https://progress-bar.dev/60/?width=500)<br>
-nodeJS:&emsp;![60%](https://progress-bar.dev/40/?width=500)<br>
-PHP:&emsp;![30%](https://progress-bar.dev/20/?width=500)<br>
-AWS:&emsp;![40%](https://progress-bar.dev/35/?width=500)<br>
-Express:&emsp;![60%](https://progress-bar.dev/55/?width=500)<br>
+HTML:&nbsp;&nbsp;![90%](https://progress-bar.dev/90/?width=500)<br>
+CSS:&nbsp;&nbsp;![85%](https://progress-bar.dev/85/?width=500)<br>
+JavaScript:&nbsp;![75%](https://progress-bar.dev/65/?width=500)<br>
+Ruby:&nbsp;&nbsp;![60%](https://progress-bar.dev/60/?width=500)<br>
+nodeJS:&nbsp;&nbsp;![60%](https://progress-bar.dev/40/?width=500)<br>
+PHP:&nbsp;&nbsp;![30%](https://progress-bar.dev/20/?width=500)<br>
+AWS:&nbsp;&nbsp;![40%](https://progress-bar.dev/35/?width=500)<br>
+Express:&nbsp;![60%](https://progress-bar.dev/55/?width=500)<br>
 
 ## Education<a name="edu"></a>
 
