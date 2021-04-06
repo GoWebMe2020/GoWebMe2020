@@ -59,12 +59,12 @@ Express:&emsp;![60%](https://progress-bar.dev/55/?width=500)<br>
 
 ## Education<a name="edu"></a>
 
-### ***Makers*** (Started April 2021)
+#### ***Makers*** (Started April 2021)
 <br>
 Looking to succesfully complete the Makers Academy Bootcamp on the 16th of July 2021.
 <br>
 
-### ***NVQ Level 6 Health and Safety Mamagement Practice***
+#### ***NVQ Level 6 Health and Safety Mamagement Practice***
 <br>
 This qualification assures the knowledge of those who influence health and safety standards within their organisations.
 <br>
@@ -86,7 +86,7 @@ This qualification assures the knowledge of those who influence health and safet
 </details>
 <br>
 
-### ***NVQ Level 6 Construction Operations Management***
+#### ***NVQ Level 6 Construction Operations Management***
 <br>
 This qualification assures the knowledge of those who influence health and safety standards within their organisations.
 <br>
