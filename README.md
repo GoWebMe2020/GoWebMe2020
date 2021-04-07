@@ -1,6 +1,6 @@
 JP Ferreira
 ======
-|&emsp; &emsp; [Projects](#proj) &emsp; &emsp;|&emsp; &emsp; [Experience](#exp) &emsp; &emsp;|&emsp; &emsp; [Skills](#ski) &emsp; &emsp;|&emsp; &emsp; [Education](#edu) &emsp; &emsp;|&emsp; &emsp; [Hobbies](#hob) &emsp; &emsp;|&emsp; &emsp; [Contact & Profiles](#cont_prof) &emsp; &emsp;|
+|&emsp; [Projects](#proj) &emsp;|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contact & Profiles](#cont_prof) &emsp;|
 <br>
 <br>
 Trying to follow my passion, put my imagination to work and create applications and software for the world to enjoy. I have a very strong construction background, having worked in various industry sectors from residential build, to petro-chemical and power generation, in South Africa, Botswana, Mozambique and the UK. I have gained a lot of valuable soft skills including, 
@@ -17,7 +17,7 @@ I have always been fascinated with technology and how the tech world continues t
 
 I am an extrovert, I like to be able to physically see the result of my hard work and I am unbelievably eager to learn. I am very excited to be part of the Makers April 2020 cohort and very much looking forward to networking and working with likeminded people. Head down to the contacts section and lets connect. Can't wait!
 
-## Projects<a name="proj"></a>
+# Projects<a name="proj"></a>
 
 |        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
 |:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
@@ -28,7 +28,7 @@ I am an extrovert, I like to be able to physically see the result of my hard wor
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical)
 
-## Experience<a name="exp"></a>
+# Experience<a name="exp"></a>
 
 When I finished school, construction was the only industry employing in the very small town I grew up in. So I became a **Structural and Pipe Welder** for a large construction company called Grinaeker LTA. After some time, once I had saved enough, I had the choice of studying either Quality Control or Health and Safety. As Health and Safety was in demand, I decided to study towards that.
 
@@ -36,34 +36,34 @@ After completing my training, I got a job as a **Junior Health and Safety Repres
   
 Since February 2020, I have been learning how to code. I completed a few online courses through Udemy, FreeCodeCamp, Codecademy, etc. and I have also followed some online professionals that have presented very valuable courses and code-alongs. I have learnt how to google and research things very well. In my spare time I practice as much as I can and try to develop my own webpages or applications. Even if it is creating a simple register and login webpage using passport. I have also developed live websites (which you can visit!). I really enjoy putting in the work and then seeing the outcome. It is very rewarding. 
 
-## Skills<a name="ski"></a>
+# Skills<a name="ski"></a>
 
 Below are some of the technologies that I have and a barchart indicating how confident I am using these technologies. I have enjoyed using these technologies and I am excited to add more and improve my abilities. 
 <br>
 <br>
 
-HTML:&nbsp;&nbsp;![90%](https://progress-bar.dev/90/?width=500)<br>
-CSS:&nbsp;&nbsp;![85%](https://progress-bar.dev/85/?width=500)<br>
-JavaScript:&nbsp;![75%](https://progress-bar.dev/65/?width=500)<br>
-Ruby:&nbsp;&nbsp;![60%](https://progress-bar.dev/60/?width=500)<br>
-nodeJS:&nbsp;&nbsp;![60%](https://progress-bar.dev/40/?width=500)<br>
-PHP:&nbsp;&nbsp;![30%](https://progress-bar.dev/20/?width=500)<br>
-AWS:&nbsp;&nbsp;![40%](https://progress-bar.dev/35/?width=500)<br>
-Express:&nbsp;![60%](https://progress-bar.dev/55/?width=500)<br>
+HTML:&emsp;&emsp;&emsp;&ensp;![90%](https://progress-bar.dev/90/?width=800)<br>
+CSS:&emsp;&emsp;&emsp;&emsp;&ensp;![85%](https://progress-bar.dev/85/?width=800)<br>
+JavaScript:&ensp; &ensp;&ensp;![75%](https://progress-bar.dev/65/?width=800)<br>
+Ruby:&emsp; &ensp; &emsp; &ensp;![60%](https://progress-bar.dev/60/?width=800)<br>
+nodeJS:&emsp;&emsp;&emsp;![60%](https://progress-bar.dev/40/?width=800)<br>
+PHP:&emsp; &emsp;&emsp;&emsp;![30%](https://progress-bar.dev/20/?width=800)<br>
+AWS:&emsp;&emsp;&emsp;&emsp;![40%](https://progress-bar.dev/35/?width=800)<br>
+Express: &emsp; &ensp; &ensp;![60%](https://progress-bar.dev/55/?width=800)<br>
 
-## Education<a name="edu"></a>
+# Education<a name="edu"></a>
 
-#### ***Makers*** (Started April 2021)
-<br>
-Looking to succesfully complete the Makers Academy Bootcamp on the 16th of July 2021.
+### **Makers Academy** (Started April 2021)
+
+&emsp;Looking to succesfully complete the Makers Academy Bootcamp on the 16th of July 2021.
 <br>
 
-#### ***NVQ Level 6 Health and Safety Mamagement Practice***
-<br>
-This qualification assures the knowledge of those who influence health and safety standards within their organisations.
+### **NVQ Level 6 Health and Safety Mamagement Practice**
+
+&emsp;This qualification assures the knowledge of those who influence health and safety standards within their organisations.
 <br>
 <details closed>
-<summary>Course Content</summary>
+<summary>&emsp;Course Content</summary>
 <br>
   <ul>
     <li>Promote a positive Health and Safety culture</li>
@@ -80,9 +80,9 @@ This qualification assures the knowledge of those who influence health and safet
 </details>
 <br>
 
-#### ***NVQ Level 6 Construction Operations Management***
-<br>
-This qualification assures the knowledge of those who influence health and safety standards within their organisations.
+### **NVQ Level 6 Construction Operations Management**
+
+&emsp;This qualification assures the knowledge of those who influence health and safety standards within their organisations.
 <br>
 <details closed>
 <summary>Course Content</summary>
@@ -100,12 +100,12 @@ This qualification assures the knowledge of those who influence health and safet
 </details>
 <br>
 
-## Hobbies<a name="hob"></a>
-<br>
+# Hobbies<a name="hob"></a>
+Since I started coding, I do enjoy sometimes practicing different methods and techiniques of development. In the summer months I also enjoy being outdoors. I have spent a lot of time around wildlife and camping. From time-to-time I also find myself lost online in an imaginary world. And, every chance I get, I ejnoy with friends and family.
 
 <br>
 
-## Contact & Profiles<a name="cont_prof"></a>
+# Contact & Profiles<a name="cont_prof"></a>
 <br>
 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/142_Github-512.png" width="20" height="20"/> [GitHub](https://github.com/GoWebMe2020) &emsp; &emsp;
@@ -114,5 +114,3 @@ This qualification assures the knowledge of those who influence health and safet
 <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/jpferreira1982/) &emsp; &emsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" width="20" height="20"/> [Instagram](https://www.instagram.com/gowebme/) &emsp; &emsp;
 <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [Email: jpferreira1982@gmail.com](mailto:jpferreira1982@gmail.com)
-
-
