@@ -82,7 +82,7 @@ Express: &emsp; &ensp; &ensp;![60%](https://progress-bar.dev/55/?width=800)<br>
 
 ### **NVQ Level 6 Construction Operations Management**
 
-&emsp;This qualification assures the knowledge of those who influence health and safety standards within their organisations.
+&emsp;This qualification assures the knowledge of those who manage contractors and they operations they perform within their organisations.
 <br>
 <details closed>
 <summary>Course Content</summary>
