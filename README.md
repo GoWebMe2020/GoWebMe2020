@@ -98,7 +98,7 @@ Express: &emsp; &ensp; &ensp;![60%](https://progress-bar.dev/55/?width=800)<br>
 <br>
 
 # Hobbies<a name="hob"></a>
-Since I started coding, I do enjoy sometimes practicing different methods and techiniques of development. In the summer months I also enjoy being outdoors. I have spent a lot of time around wildlife and camping. From time-to-time I also find myself lost online in an imaginary world. And, every chance I get, I ejnoy with friends and family.
+Since I started coding, I do enjoy sometimes practicing different methods and techiniques of development. In the summer months I also enjoy being outdoors. I have spent a lot of time around wildlife and camping. From time-to-time I also find myself lost online in an imaginary world. And, every chance I get, I enjoy a good day or night out with friends and family.
 
 <br>
 
