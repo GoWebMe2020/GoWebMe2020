@@ -4,12 +4,11 @@ JP Ferreira
 <br>
 <br>
 Trying to follow my passion, put my imagination to work and create applications and software for the world to enjoy. I have a very strong construction background, having worked in various industry sectors from residential build, to petro-chemical and power generation, in South Africa, Botswana, Mozambique and the UK. I have gained a lot of valuable soft skills including, 
-|                         |                         |                         |                         |
-|-------------------------|-------------------------|-------------------------|-------------------------|
-| Good communcation       | Team work               | Self motivation         | Planning                |
-| Structure               | Design                  | Management              | Training & menntorship  |
-| Target Driven           | Problem Solving         | Time Management         | Self Development        |
-| Fast Learner            | Attention to Detail     |                         |                         |
+|                         |                         |                         |                         |                         |
+|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| Good communcation       | Team work               | Self motivation         | Planning                | Fast Learner            |
+| Structure               | Design                  | Management              | Training & menntorship  | Attention to Detail     |
+| Target Driven           | Problem Solving         | Time Management         | Self Development        |                         |
 
 I have always been fascinated with technology and how the tech world continues to grow and impress. I still remember putting together my first PC, using only spare parts, which was a 286. Decades later, at the start of 2020, with very little to do in lockdown I decided to complete a few courses online on fullstack development. Thereafter, I found some fantastic developers online that I started to follow (not sure if I can mention them). I have developed websites for others, but my greatest achievement at this point (April 2021) is developing my own website with a blog using a variety of languages. I still can't tell if I managed to build the site because I am a fast learner or because I am like a dog with a bone when I have an end goal in mind.
 
