@@ -42,7 +42,7 @@ Below are some of the technologies that I have and a barchart indicating how con
 HTML:&emsp;&emsp;&emsp;&ensp;![90%](https://progress-bar.dev/90/?width=800)<br>
 CSS:&emsp;&emsp;&emsp;&emsp;&ensp;![85%](https://progress-bar.dev/85/?width=800)<br>
 JavaScript:&ensp; &ensp;&ensp;![75%](https://progress-bar.dev/65/?width=800)<br>
-Ruby:&emsp; &ensp; &emsp; &ensp;![60%](https://progress-bar.dev/60/?width=800)<br>
+Ruby:&emsp; &ensp; &emsp; &ensp;![70%](https://progress-bar.dev/70/?width=800)<br>
 nodeJS:&emsp;&emsp;&emsp;![60%](https://progress-bar.dev/40/?width=800)<br>
 PHP:&emsp; &emsp;&emsp;&emsp;![30%](https://progress-bar.dev/20/?width=800)<br>
 AWS:&emsp;&emsp;&emsp;&emsp;![40%](https://progress-bar.dev/35/?width=800)<br>
@@ -75,7 +75,6 @@ Express: &emsp; &ensp; &ensp;![60%](https://progress-bar.dev/55/?width=800)<br>
     <li>Maintain knowledge of improvements to influence health and safety practice</li>
   </ul>
 </details>
-<br>
 
 ### **NVQ Level 6 Construction Operations Management**
 
