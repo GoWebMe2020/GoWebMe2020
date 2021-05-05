@@ -39,14 +39,22 @@ Below are some of the technologies that I have and a barchart indicating how con
 <br>
 <br>
 
-HTML:&emsp;&emsp;&emsp;&ensp;![90%](https://progress-bar.dev/90/?width=800)<br>
-CSS:&emsp;&emsp;&emsp;&emsp;&ensp;![85%](https://progress-bar.dev/85/?width=800)<br>
-JavaScript:&ensp; &ensp;&ensp;![75%](https://progress-bar.dev/65/?width=800)<br>
-Ruby:&emsp; &ensp; &emsp; &ensp;![70%](https://progress-bar.dev/70/?width=800)<br>
-nodeJS:&emsp;&emsp;&emsp;![60%](https://progress-bar.dev/40/?width=800)<br>
-PHP:&emsp; &emsp;&emsp;&emsp;![30%](https://progress-bar.dev/20/?width=800)<br>
-AWS:&emsp;&emsp;&emsp;&emsp;![40%](https://progress-bar.dev/35/?width=800)<br>
-Express: &emsp; &ensp; &ensp;![60%](https://progress-bar.dev/55/?width=800)<br>
+HTML:
+![90%](https://progress-bar.dev/90/?width=1000)<br>
+CSS:
+![85%](https://progress-bar.dev/85/?width=1000)<br>
+JavaScript:
+![75%](https://progress-bar.dev/65/?width=1000)<br>
+Ruby:
+![70%](https://progress-bar.dev/70/?width=1000)<br>
+nodeJS:
+![60%](https://progress-bar.dev/40/?width=1000)<br>
+PHP:
+![30%](https://progress-bar.dev/20/?width=1000)<br>
+AWS:
+![40%](https://progress-bar.dev/35/?width=1000)<br>
+Express:
+![60%](https://progress-bar.dev/55/?width=1000)<br>
 
 # Education<a name="edu"></a>
 
