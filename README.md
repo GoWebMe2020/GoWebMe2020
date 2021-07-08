@@ -48,7 +48,7 @@ JavaScript:
 Ruby:
 ![85%](https://progress-bar.dev/85/?width=1000)<br>
 Ruby on Rails:
-![80%](https://progress-bar.dev/40/?width=1000)<br>
+![70%](https://progress-bar.dev/70/?width=1000)<br>
 React:
 ![40%](https://progress-bar.dev/40/?width=1000)<br>
 AWS:
