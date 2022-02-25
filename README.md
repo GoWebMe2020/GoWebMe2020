@@ -60,15 +60,20 @@ AWS:
 ### **Makers Academy** (July 2021)
 
 &emsp;Succesfully completed the Makers Academy Bootcamp.
-  - Successfully completed training in many production languages, testing frameworks and databases including Ruby,
-Ruby on Rails, Javascript, RSpec, Capybara, Jasmine, Git, Command Line, PostgreSQL and Mongo DB
-  - Focused on working in an Agile manner, as well as Test Driven Development, SOLID and extreme programming values
-  - Completed process workshops and code reviews by external parties. These confirmed clear, easy to read code and a
-methodical approach to problem solving
-  - Improved technical knowledge and abilities; and enhanced vital skills in teamwork, emotional intelligence and coding
-best practice
-  - Invited to design and present workshops to cohort members on CSS
-  - Selected as a mentor for new Makers students
+<details closed>
+  <summary>&emsp;Details</summary>
+  <ul>
+    <li>Successfully completed training in many production languages, testing frameworks and databases including Ruby,
+  Ruby on Rails, Javascript, RSpec, Capybara, Jasmine, Git, Command Line, PostgreSQL and Mongo DB</li>
+    <li>Focused on working in an Agile manner, as well as Test Driven Development, SOLID and extreme programming values</li>
+    <li>Completed process workshops and code reviews by external parties. These confirmed clear, easy to read code and a
+  methodical approach to problem solving</li>
+    <li>Improved technical knowledge and abilities; and enhanced vital skills in teamwork, emotional intelligence and coding
+  best practice</li>
+    <li>Invited to design and present workshops to cohort members on CSS</li>
+    <li>Selected as a mentor for new Makers students</li>
+  </ul>
+</details>
 <br>
 
 ### **NVQ Level 6 Health and Safety Mamagement Practice**
