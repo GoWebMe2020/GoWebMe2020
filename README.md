@@ -1,4 +1,17 @@
-Following my dream to be a software engineer and let my inner nerd free to run away with it's creativity. 
+Following my dream of being a full-time, professional nerd (Software Engineer) and letting my inner geek free to run away with its creativity. Seems a little late in life, but better late than never.
+
+As a result of the pandemic, and having nothing to do, I found that I had an immense amount of time on my hands. So, I started coding as a hobby and completed an online Web Developer Bootcamp through Udemy. I'm sure every developer remembers the first time they saw "Hello World" displayed on their browser, making them feel almost like Neo depending on which generation you were born in.
+
+Honing these new skills, I continued creating little projects and I found myself getting better and better. Every time I felt I was becoming comfortable with a certain technology, I found myself having to learn another or a framework of that technology. I then quickly realised, I will be learning for the rest of my life.
+
+This was when I made the very uncertain decision to leave my successful and safe 15-year career in Construction Management. Yes. I know. It is a completely different direction. 
+
+I joined the Makers April 2021 cohort and those were probably some of the toughest months I have faced. Basically writing off all my friends for three months, spending countless hours mesmerised by these new technologies and learning all these new skills. This made me realise again that when you think you know, you still don't really.
+
+After completing Makers, my next goal was to be employed as a Software Engineer. I was fortunate enough to be employed by a wonderful company called BridgeU as an Associate Software Engineer.
+
+Going from learning as a hobby to learning through Makers was a massive stride. Then going from Makers to being employed and learning on the job (all the time) was an even bigger stride. This gets me excited to see what the future holds for me.
+ 
 
 HTML:
 ![90%](https://progress-bar.dev/90/?width=1000)<br>
