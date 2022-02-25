@@ -1,17 +1,43 @@
-Following my dream of being a full-time, professional nerd (Software Engineer) and letting my inner geek free to run away with its creativity. Seems a little late in life, but better late than never.
+JP Ferreira
+======
+|&emsp; [Projects](#proj) &emsp;|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contact & Profiles](#cont_prof) &emsp;|
+<br>
+<br>
+Trying to follow my passion, put my imagination to work and create applications and software for the world to enjoy. I have a very strong construction background, having worked in various industry sectors from residential build, to petro-chemical and power generation, in South Africa, Botswana, Mozambique and the UK. I have gained a lot of valuable soft skills including, 
+|                         |                         |                         |                         |                         |
+|-------------------------|-------------------------|-------------------------|-------------------------|-------------------------|
+| Good communcation       | Team work               | Self motivation         | Planning                | Fast Learner            |
+| Structure               | Design                  | Management              | Training & menntorship  | Attention to Detail     |
+| Target Driven           | Problem Solving         | Time Management         | Self Development        |                         |
 
-As a result of the pandemic, and having nothing to do, I found that I had an immense amount of time on my hands. So, I started coding as a hobby and completed an online Web Developer Bootcamp through Udemy. I'm sure every developer remembers the first time they saw "Hello World" displayed on their browser, making them feel almost like Neo depending on which generation you were born in.
+I have always been fascinated with technology and how the tech world continues to grow and impress. I still remember putting together my first PC, using only spare parts, which was a 286. Decades later, at the start of 2020, with very little to do in lockdown I decided to complete a few courses online on fullstack development. Thereafter, I found some fantastic developers online that I started to follow (not sure if I can mention them). I have developed websites for others, but my greatest achievement at this point (April 2021) is developing my own website with a blog using a variety of languages. I still can't tell if I managed to build the site because I am a fast learner or because I am like a dog with a bone when I have an end goal in mind.
 
-Honing these new skills, I continued creating little projects and I found myself getting better and better. Every time I felt I was becoming comfortable with a certain technology, I found myself having to learn another or a framework of that technology. I then quickly realised, I will be learning for the rest of my life.
+I am an extrovert, I like to be able to physically see the result of my hard work and I am unbelievably eager to learn. I am very excited to be part of the Makers April 2020 cohort and very much looking forward to networking and working with likeminded people. Head down to the contacts section and lets connect. Can't wait!
 
-This was when I made the very uncertain decision to leave my successful and safe 15-year career in Construction Management. Yes. I know. It is a completely different direction. 
+# Projects<a name="proj"></a>
 
-I joined the Makers April 2021 cohort and those were probably some of the toughest months I have faced. Basically writing off all my friends for three months, spending countless hours mesmerised by these new technologies and learning all these new skills. This made me realise again that when you think you know, you still don't really.
+|        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
+|:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
+|Mrs. T's Creations         | Frontend development of an online store        | HTML; CSS; JavaScript        | [Mrs. T's Creations](https://gowebme.co.uk/mrstcreations/)      |
+|Mill Harbour               | Frontend of a construction project info hub    | HTML; CSS; JavaScript        | [Mill Habrour Project Hub](https://gowebme.co.uk/millharbourproject/)|
+|24/7 Mobile Tyre Fitting   | Complete website for a mobile tyre fitting organisation | WordPress | [24/7 Mobile Tyre Fitting](https://emergency24mobiletyrefitting.co.uk/)   |
+|OlyBet                     | Covert JSON data to automatically populate a styled website as it changes| HTML; CSS; JavaScript | [OlyBet Sports](https://www.olybet.eu/sports)|
 
-After completing Makers, my next goal was to be employed as a Software Engineer. I was fortunate enough to be employed by a wonderful company called BridgeU as an Associate Software Engineer.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical)
 
-Going from learning as a hobby to learning through Makers was a massive stride. Then going from Makers to being employed and learning on the job (all the time) was an even bigger stride. This gets me excited to see what the future holds for me.
- 
+# Experience<a name="exp"></a>
+
+When I finished school, construction was the only industry employing in the very small town I grew up in. So I became a **Structural and Pipe Welder** for a large construction company called Grinaeker LTA. After some time, once I had saved enough, I had the choice of studying either Quality Control or Health and Safety. As Health and Safety was in demand, I decided to study towards that.
+
+After completing my training, I got a job as a **Junior Health and Safety Representative** in 2001 for a Mechanical & Electrical contractor. After a year my contract ended and I then worked for Wetback Contractors who promoted me to **Health and Safety Advisor**. My end goal was to work for a company called NOSA as a **Health and Safety Consultant, Auditor and Trainer** which I achieved. I ended up working for them for nearly 10 years and was promoted to a **Regional Manager**. In 2015, I spent some time in the Netherlands and finally moved to the UK where I continued my career at Dornan Engineering and Ballymore Construction as a **Health, Safety and Logistics Construction Manager** (a mouth full really).
+  
+Since February 2020, I have been learning how to code. I completed a few online courses through Udemy, FreeCodeCamp, Codecademy, etc. and I have also followed some online professionals that have presented very valuable courses and code-alongs. I have learnt how to google and research things very well. In my spare time I practice as much as I can and try to develop my own webpages or applications. Even if it is creating a simple register and login webpage using passport. I have also developed live websites (which you can visit!). I really enjoy putting in the work and then seeing the outcome. It is very rewarding. 
+
+# Skills<a name="ski"></a>
+
+Below are some of the technologies that I have and a barchart indicating how confident I am using these technologies. I have enjoyed using these technologies and I am excited to add more and improve my abilities. 
+<br>
+<br>
 
 HTML:
 ![90%](https://progress-bar.dev/90/?width=1000)<br>
@@ -84,6 +110,10 @@ Since I started coding, I do enjoy sometimes practicing different methods and te
 # Contact & Profiles<a name="cont_prof"></a>
 <br>
 
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/142_Github-512.png" width="20" height="20"/> [GitHub](https://github.com/GoWebMe2020) &emsp; &emsp;
+<img src="https://camo.githubusercontent.com/5334ac63cec7844521712c1f88727711dc1dc6a8b2a6ea85612408869f8dfef9/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" width="20" height="20"/> [Codewars](https://www.codewars.com/users/jpferreira1982) &emsp; &emsp;
 <img src="https://image.flaticon.com/icons/png/512/124/124021.png" width="20" height="20"/> [Twitter](https://twitter.com/GoWebMe) &emsp; &emsp;
 <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/jpferreira1982/) &emsp; &emsp;
-<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [jpferreira1982@gmail.com](mailto:jpferreira1982@gmail.com)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" width="20" height="20"/> [Instagram](https://www.instagram.com/gowebme/) &emsp; &emsp;
+<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [Email: jpferreira1982@gmail.com](mailto:jpferreira1982@gmail.com)
+
