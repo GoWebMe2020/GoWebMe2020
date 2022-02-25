@@ -1,5 +1,8 @@
 JP Ferreira
 ======
+
+<progress style="width: 100%; height: 40px;"max="100" value="80"></progress>
+
 |&emsp; [Projects](#proj) &emsp;|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contact & Profiles](#cont_prof) &emsp;|
 <br>
 <br>
