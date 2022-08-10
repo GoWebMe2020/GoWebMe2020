@@ -24,7 +24,7 @@ I am an extrovert, I like to be able to physically see the result of my hard wor
 |24/7 Mobile Tyre Fitting   | Complete website for a mobile tyre fitting organisation | WordPress | [24/7 Mobile Tyre Fitting](https://emergency24mobiletyrefitting.co.uk/)   |
 |OlyBet                     | Covert JSON data to automatically populate a styled website as it changes| HTML; CSS; JavaScript | [OlyBet Sports](https://www.olybet.eu/sports)|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical&count_private=true)
 
 # Experience<a name="exp"></a>
 
