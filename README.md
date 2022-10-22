@@ -1,7 +1,7 @@
 JP Ferreira
 ======
 
-|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Projects](#proj) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contacts](#cont_prof) &emsp;|
+|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Freelance Projects](#proj) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contacts](#cont_prof) &emsp;|
 <br>
 <br>
 A driven, innovative, and hardworking professional that has developed comprehensive skills and knowledge in software engineering and programming principles through ongoing studies and practice. Able to work effectively both on my own, as a key contributor to a team and when partnering with others. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high quality code.
@@ -47,15 +47,15 @@ Ruby:
 Ruby on Rails:
 ![80%](https://progress-bar.dev/70/?width=1000)<br>
 React:
-![60%](https://progress-bar.dev/60/?width=1000)<br>
+![75%](https://progress-bar.dev/75/?width=1000)<br>
 Elm:
-![60%](https://progress-bar.dev/60/?width=1000)<br>
+![70%](https://progress-bar.dev/70/?width=1000)<br>
 SQL:
 ![50%](https://progress-bar.dev/50/?width=1000)<br>
 RSpec / Capybara:
 ![70%](https://progress-bar.dev/70/?width=1000)<br>
 
-# Projects<a name="proj"></a>
+# Freelance Projects<a name="proj"></a>
 
 |        Project Name       |               Description                      |          Tech Tools          |                      Live Link                                  |
 |:-------------------------:|------------------------------------------------|:----------------------------:|:---------------------------------------------------------------:|
@@ -90,46 +90,6 @@ RSpec / Capybara:
 *	Learn Git / Learn the Command Line / Learn Ruby – <em>Codecademy</em>
 *	Intro to Elm, Advanced Elm - <em>FrontendMasters</em>
 
-
-### **NVQ Level 6 Health and Safety Mamagement Practice**
-
-&emsp;This qualification assures the knowledge of those who influence health and safety standards within their organisations.
-<br>
-<details closed>
-<summary>&emsp;Course Content</summary>
-<br>
-  <ul>
-    <li>Promote a positive Health and Safety culture</li>
-    <li>Develop and implement the Health and Safety policy</li>
-    <li>Develop and implement effective communication systems for Health and Safety information</li>
-    <li>Develop and maintain individual and organisational competence in Health and Safety matters</li>
-    <li>Identify, access and control Health and Safety risks</li>
-    <li>Develop and implement proactive monitoring systems for Health and Safety</li>
-    <li>Develop and implement reactive monitoring systems for Health and Safety</li>
-    <li>Develop and implement Health and Safety emergency response systems and procedures</li>
-    <li>Develop and implement Health and Safety review systems</li>
-    <li>Maintain knowledge of improvements to influence health and safety practice</li>
-  </ul>
-</details>
-
-### **NVQ Level 6 Construction Operations Management**
-
-&emsp;This qualification assures the knowledge of those who manage contractors and they operations they perform within their organisations.
-<br>
-<details closed>
-<summary>Course Content</summary>
-<br>
-  <ul>
-    <li>Maintain health, safety and welfare systems in construction</li>
-    <li>Manage the performance of teams and individuals in construction</li>
-    <li>Chair meetings and take decisions in construction</li>
-    <li>Enhance working relationships in construction</li>
-    <li>Specify and control production documents in construction</li>
-    <li>Identify, assess and evaluate project requirements in construction</li>
-    <li>Evaluate and confirm work methods and programme in construction</li>
-    <li>Ascertain the condition of property in construction</li>
-  </ul>
-</details>
 <br>
 
 # Hobbies<a name="hob"></a>
@@ -139,8 +99,6 @@ Since I started coding, I do enjoy sometimes practicing different methods and te
 
 # Contact & Profiles<a name="cont_prof"></a>
 <br>
-
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/142_Github-512.png" width="20" height="20"/> [GitHub](https://github.com/GoWebMe2020) &emsp; &emsp;
 
 <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/jpferreira1982/) &emsp; &emsp;
 
