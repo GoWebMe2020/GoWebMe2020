@@ -4,22 +4,39 @@ JP Ferreira
 |&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Freelance Projects](#proj) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contacts](#cont_prof) &emsp;|
 <br>
 <br>
-A driven, innovative, and hardworking professional that has developed comprehensive skills and knowledge in software engineering and programming principles through ongoing studies and practice. Able to work effectively both on my own, as a key contributor to a team and when partnering with others. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high quality code.
+I am a driven and hardworking professional that, after an 18-year career in Construction Management, successfully re- trained in Software Engineering. Over the past 2 years, I have gained comprehensive experience in Full Stack Software Engineering; and demonstrated an ability to work effectively independently and as a key contributor to a team. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high- quality code.
 
 # Experience<a name="exp"></a>
 
+SOFTWARE ENGINEER<br>
+Promoted from Associate Software Engineer
+
+BridgeU, London UK,             Jan 2023 – Present
+* Full stack development, improvement, and maintenance of features using AGILE methodologies and SOLID principles.
+* Utilising high-quality code and best practice for Ruby on Rails, API only Rails, Ruby, Elm, JavaScript, HTML, SQL, RSpec, Capybara and CSS
+* Ensuring scalability and future reliability using Test-Driven Development (TDD) methodologies with both unit tests and integration tests
+* Partnering with Customer Support and Design to ensure the successful development of features that exceed user requirements, suggesting styles and flows, using the latest technologies and frameworks, such as CSS, SCSS, BootStrap and Material UI
+* Chairing stand-ups, presenting new features to key stakeholders, updating the Trello board and conducting workshops as requested 
+* Key Achievements
+  * Self-taught SQL
+  * Designed and developed a key feature from idea to inception. Drafted a proposal explaining the benefits, architectural changes, tech stack, changes to the existing code, new workflows, designs and division of tasks
+  * Developed full stack reusable Login and Notification modals
+  * Developed and presented a workshop on the Product and Vision Strategy within the company and the process from Bet to Promise of Value to Promise of Delivery and to Task. 
+  * Identified and resolved various unit and integration tests that were flaky on CircleCI to ensure that the application is properly tested and improve productivity when deploying.
+  * Updated and configured the Sentry gem to log all errors to an interface.
+  * Secured and continually increases knowledge across multiple technologies
+
 ASSOCIATE SOFTWARE ENGINEER<br>
 BridgeU, London UK,				     Oct 2021 – Present
-* Developing, improving, and maintaining features using AGILE methodology
-* Utilisisng high quality code and best practice for Ruby on Rails, Ruby, Elm, JavaScript, HTML, SQL, RSpec, Capybara, Docker and CSS
-* Ensuring scalability and future reliability by using Test-Driven Development (TDD) methodologies
-* Perform spikes and proposals on the architecture and flow of new features and software improvements
-* Partnering with Customer Support and Design to ensure the successful development of features that exceed user requirements, suggesting styles and flows, and using the latest technologies and frameworks, such as CSS, SCSS, BootStrap and Material UI
-* Developing and maintaining the CMS; providing and improving functionality for the content managers
-* Chairing stand ups, presenting new features to key stakeholders and updating the Trello board
-* Providing code reviews and assistance to improve the code
-* Implemented a tracking system for all software features
-* Key achievement: self-taught Elm 
+* Joined BridgeU as a junior and quickly became a trusted member of the team
+* Developed, improved and maintained features using high quality code
+* Quickly gained an understanding of the code base and improved my coding skills
+* Used Test Driven Development methods 
+* Partnered with Customer Support and Design to ensure the successful development of features
+* Contributed to and chaired squad meetings
+* Key Achievements
+  * Self-taught React JS, Elm
+  * Nominated and awarded a prize for representing the company core values
 
 STUDENT<br>
 Makers, London UK,				  Apr 2021 – Jul 2021
@@ -28,7 +45,17 @@ Makers, London UK,				  Apr 2021 – Jul 2021
 * Completed process workshops and code reviews by external parties
 * Improved technical knowledge and abilities; and enhanced vital skills in teamwork, emotional intelligence and coding best practices.
 
+CONSTRUCTION MANAGEMENT<br>
+
+Multiple companies, 2003 - 2021
+* Primarily managed Contractor Operations on various construction projects in various industry sectors (Petrochemical, Oil & Gas, Power Generation & Transmission, Railway, etc.)
+* My last position held was a Health, Safety and Logistics Manager for a large residential and commercial developer
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical&count_private=true)
+
+---
 
 # Skills<a name="ski"></a>
 
