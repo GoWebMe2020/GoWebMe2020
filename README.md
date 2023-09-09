@@ -1,45 +1,42 @@
 JP Ferreira
 ======
 
-|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Freelance Projects](#proj) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|&emsp; [Contacts](#cont_prof) &emsp;|
+|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Freelance Projects](#proj) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|
 <br>
 <br>
-I am a driven and hardworking professional that, after an 18-year career in Construction Management, successfully re- trained in Software Engineering. Over the past 2 years, I have gained comprehensive experience in Full Stack Software Engineering; and demonstrated an ability to work effectively independently and as a key contributor to a team. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high- quality code.
+I am a driven and hardworking professional that, after an 18-year career in Construction Management, successfully re-trained in Software Engineering. Over the past 2 years, I have gained comprehensive experience in Full Stack Software Engineering; and demonstrated an ability to work effectively independently and as a key contributor to a team. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high-quality code.
 
 # Experience<a name="exp"></a>
 
 SOFTWARE ENGINEER<br>
-Promoted from Associate Software Engineer
 
-BridgeU, London UK,             Jan 2023 – Present
-* Full stack development, improvement, and maintenance of features using AGILE methodologies and SOLID principles.
-* Utilising high-quality code and best practice for Ruby on Rails, API only Rails, Ruby, Elm, JavaScript, HTML, SQL, RSpec, Capybara and CSS
-* Ensuring scalability and future reliability using Test-Driven Development (TDD) methodologies with both unit tests and integration tests
-* Partnering with Customer Support and Design to ensure the successful development of features that exceed user requirements, suggesting styles and flows, using the latest technologies and frameworks, such as CSS, SCSS, BootStrap and Material UI
-* Chairing stand-ups, presenting new features to key stakeholders, updating the Trello board and conducting workshops as requested 
+BridgeU, London UK
+BridgeU is the market leading provider of university and careers guidance software to international and globally minded secondary schools in over 300 cities across 119 countries. 
+* Promoted to Software Engineer, assuming leadership in architectural design, decision-making, and technical excellence.
+* Spearheaded key feature development in the BridgeU platform, showcasing expertise in educational technology and mentoring junior colleagues for project success. 
+* Played a crucial role in mentoring, onboarding, and fostering a culture of continuous learning within the engineering department.
 * Key Achievements
-  * Self-taught SQL
-  * Designed and developed a key feature from idea to inception. Drafted a proposal explaining the benefits, architectural changes, tech stack, changes to the existing code, new workflows, designs and division of tasks
-  * Developed full stack reusable Login and Notification modals
-  * Developed and presented a workshop on the Product and Vision Strategy within the company and the process from Bet to Promise of Value to Promise of Delivery and to Task. 
-  * Identified and resolved various unit and integration tests that were flaky on CircleCI to ensure that the application is properly tested and improve productivity when deploying.
+  * Self-taught SQL.
+  * Designed and developed a key feature from idea to inception, improving the user experience.
+  * Developed full stack reusable Login and Notification modals.
+  * Developed and presented a workshop on the Product and Vision Strategy within the company and the process from Bet to Promise of Value to Promise of Delivery and to Task.
+  * Identified and resolved various unit and integration tests that were flaky on CircleCI to ensure that the application was properly tested and improve productivity when deploying.
   * Updated and configured the Sentry gem to log all errors to an interface.
-  * Secured and continually increases knowledge across multiple technologies
 
 ASSOCIATE SOFTWARE ENGINEER<br>
-BridgeU, London UK,				     Oct 2021 – Present
-* Joined BridgeU as a junior and quickly became a trusted member of the team
-* Developed, improved and maintained features using high quality code
-* Quickly gained an understanding of the code base and improved my coding skills
-* Used Test Driven Development methods 
-* Partnered with Customer Support and Design to ensure the successful development of features
-* Contributed to and chaired squad meetings
+
+BridgeU, London UK
+* Quickly earned trust as a junior team member at BridgeU. 
+* Enhanced the college and career guidance platform, aiding students in informed decision-making. 
+* Collaborated with skilled engineers to improve the educational software, emphasising personalised learning and data-driven insights. 
+* Optimised and expanded platform features for seamless college applications, career planning, and academic counselling, aligning with BridgeU's mission to democratise global education opportunities.
 * Key Achievements
-  * Self-taught React JS, Elm
-  * Nominated and awarded a prize for representing the company core values
+  * Self-taught React JS and Elm.
+  * Awarded a prize for representing the company core values.
 
 STUDENT<br>
-Makers, London UK,				  Apr 2021 – Jul 2021
+
+Makers, London UK
 * Successfully completed training in various production languages, testing frameworks and databases.
 * Focused on Agile methods, as well as Test Driven Development, SOLID and extreme programming values.
 * Completed process workshops and code reviews by external parties
@@ -48,8 +45,8 @@ Makers, London UK,				  Apr 2021 – Jul 2021
 CONSTRUCTION MANAGEMENT<br>
 
 Multiple companies, 2003 - 2021
-* Primarily managed Contractor Operations on various construction projects in various industry sectors (Petrochemical, Oil & Gas, Power Generation & Transmission, Railway, etc.)
-* My last position held was a Health, Safety and Logistics Manager for a large residential and commercial developer
+* Managed Contractor Operations on construction projects across various industry sectors (Petrochemical, Oil & Gas, Power Generation & Transmission, Railway, etc.).
+* My last position held was a Health, Safety and Logistics Manager for a large residential and commercial developer.
 
 ---
 
@@ -58,9 +55,6 @@ Multiple companies, 2003 - 2021
 ---
 
 # Skills<a name="ski"></a>
-
-Below are some of the technologies that I have and a barchart indicating how confident I am using these technologies. I have enjoyed using these technologies and I am excited to add more and improve my abilities. 
-<br>
 <br>
 
 HTML:
@@ -72,13 +66,13 @@ JavaScript:
 Ruby:
 ![85%](https://progress-bar.dev/85/?width=1000)<br>
 Ruby on Rails:
-![80%](https://progress-bar.dev/70/?width=1000)<br>
+![80%](https://progress-bar.dev/75/?width=1000)<br>
 React:
 ![75%](https://progress-bar.dev/75/?width=1000)<br>
 Elm:
 ![70%](https://progress-bar.dev/70/?width=1000)<br>
 SQL:
-![50%](https://progress-bar.dev/50/?width=1000)<br>
+![50%](https://progress-bar.dev/60/?width=1000)<br>
 RSpec / Capybara:
 ![70%](https://progress-bar.dev/70/?width=1000)<br>
 
@@ -113,21 +107,11 @@ RSpec / Capybara:
 
 ### **Other /Courses**
 
-*	Comprehensive Ruby Programming / Web Development Bootcamp – <em>Udemy</em>
+*	Comprehensive Ruby Programming / Web Development Bootcamp / SQL – <em>Udemy</em>
 *	Learn Git / Learn the Command Line / Learn Ruby – <em>Codecademy</em>
 *	Intro to Elm, Advanced Elm - <em>FrontendMasters</em>
-
 <br>
 
 # Hobbies<a name="hob"></a>
 Since I started coding, I do enjoy sometimes practicing different methods and techiniques of development. In the summer months I also enjoy being outdoors. I have spent a lot of time around wildlife and camping. From time-to-time I also find myself lost online in an imaginary world. And, every chance I get, I enjoy a good day or night out with friends and family.
-
 <br>
-
-# Contact & Profiles<a name="cont_prof"></a>
-<br>
-
-<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/jpferreira1982/) &emsp; &emsp;
-
-<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="20" height="20"/> [Email: jpferreira1982@gmail.com](mailto:jpferreira1982@gmail.com)
-
