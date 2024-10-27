@@ -4,7 +4,7 @@ JP Ferreira
 |&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|
 <br>
 <br>
-I am a driven and hardworking professional that, after an 18-year career in Construction Management, successfully re-trained in Software Engineering. Over the past 4 years, I have gained comprehensive experience in Full Stack Software Engineering; and demonstrated an ability to work effectively independently and as a key contributor to a team. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high-quality code.
+I am a hardworking and adaptable professional that made a successful shift from an 18-year background in Construction Management to Software Engineering 4 years ago. Over the past 4 years, I have gained comprehensive experience in Full Stack Software Engineering; and demonstrated an ability to work effectively independently and as a key contributor to a team. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high-quality code.
 
 # Experience<a name="exp"></a>
 
