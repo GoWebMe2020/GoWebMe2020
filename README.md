@@ -1,150 +1,123 @@
-JP Ferreira
-======
+## JP Ferreira
+#### Senior Software Engineer
 
-|&emsp; [Experience](#exp) &emsp;|&emsp; [Skills](#ski) &emsp;|&emsp; [Education](#edu) &emsp;|&emsp; [Hobbies](#hob) &emsp;|
-<br>
-<br>
-I am a hardworking and adaptable professional that made a successful shift from an 18-year background in Construction Management to Software Engineering 4 years ago. Over the past 4 years, I have gained comprehensive experience in Full Stack Software Engineering; and demonstrated an ability to work effectively independently and as a key contributor to a team. With a natural ability and desire to learn and master new technologies, I enjoy developing and maintaining software functionality with high-quality code.
-
-# Experience<a name="exp"></a>
-
-SOFTWARE ENGINEER<br>
-
-Domain Group, Melbourne Australia
-Software Engineer on the Engage platform at Domain Group, a leading Australian property marketplace.
-*	Developed and maintained a Ruby on Rails backend and a React frontend, delivering high-quality software solutions that support the creation of property marketing materials.
-*	Managed and improved Ruby on Rails microservice, integrating with multiple external APIs, mapping data to meet specific backend schema requirements, and ensuring seamless data flow.
-*	Actively contributed to incident response efforts, diagnosing and resolving issues promptly, and ensuring optimal application performance using monitoring tools like New Relic and Papertrail.
-*	Collaborated closely with cross-functional teams, including product managers, customer care, and template builders, to align product features with user needs and deliver impactful solutions.
-*	Key Achievements
-  *	Played a key role in building a Node.js microservice that facilitated data visualisation through dynamic charts for proposals.
-  *	Made various improvements to the External Integrations Services microservice that requests suburb and property data from various APIs and maps that data to meet the requirements of the Backend database schema
-
-FREELANCE SOFTWARE ENGINEER<br>
-
-Medium Marketing - Sep 2023 – Feb 2024
-* Partnered with the founder to spearhead the development of an innovative application, utilising Artificial Intelligence to empower businesses to develop, assess and improve their marketing strategies.
-
-*Tech: Ruby on Rails, Ruby, OpenAI, JavaScript, Bootstrap, Sass, ERB, PostgreSQL, Devise, Active Record*
-
-Dr. Safari Appearance Medicine - Apr 2022 – Feb 2024
-* Collaborated closely with the client to understand their needs and design and deliver a user-friendly website with an integrated WYSIWYG editor for article creation. Successfully implemented SEO strategies and keywords, resulting in a first page ranking on Google within 6 months, without any ad spend. 
-
-*Tech: Ruby on Rails, Ruby, JavaScript, Bootstrap, Sass, Fontawesome, ERB, PostgreSQL, Devise, AWS S3, Heroku, Active Record, Active Storage, Active Mailer*
-
-Avondale Recruitment	- Oct 2021
-* Designed and developed a website that incorporated candidate and company portals; and that allowed for straightforward user profile creation, seamless CV uploads, and owner access enabling an efficient recruitment process.
-
-*Tech: Ruby on Rails, Ruby, JavaScript, Bootstrap, Sass, Fontawesome, ERB, PostgreSQL, Devise, AWS S3, Heroku, Active Record, Active Storage, Active Mailer*
- 
-OlyBet	- Sept 2021
-* Developed code that facilitated HTTP get requests to an external API and provided real-time access to live games and sporting events, improving player engagement and satisfaction. 
-
-*Tech: JavaScript, Html, CSS, JSON*
-
-SOFTWARE ENGINEER<br>
-
-BridgeU, London UK
-BridgeU is the market leading provider of university and careers guidance software to international and globally minded secondary schools in over 300 cities across 119 countries. 
-* Promoted to Software Engineer, assuming leadership in architectural design, decision-making, and technical excellence.
-* Spearheaded key feature development in the BridgeU platform, showcasing expertise in educational technology and mentoring junior colleagues for project success. 
-* Played a crucial role in mentoring, onboarding, and fostering a culture of continuous learning within the engineering department.
-* Key Achievements
-  * Self-taught SQL.
-  * Designed and developed a key feature from idea to inception, improving the user experience.
-  * Developed full stack reusable Login and Notification modals.
-  * Developed and presented a workshop on the Product and Vision Strategy within the company and the process from Bet to Promise of Value to Promise of Delivery and to Task.
-  * Identified and resolved various unit and integration tests that were flaky on CircleCI to ensure that the application was properly tested and improve productivity when deploying.
-  * Updated and configured the Sentry gem to log all errors to an interface.
-
-ASSOCIATE SOFTWARE ENGINEER<br>
-
-BridgeU, London UK
-* Quickly earned trust as a junior team member at BridgeU. 
-* Enhanced the college and career guidance platform, aiding students in informed decision-making. 
-* Collaborated with skilled engineers to improve the educational software, emphasising personalised learning and data-driven insights. 
-* Optimised and expanded platform features for seamless college applications, career planning, and academic counselling, aligning with BridgeU's mission to democratise global education opportunities.
-* Key Achievements
-  * Self-taught React JS and Elm.
-  * Awarded a prize for representing the company core values.
-
-STUDENT<br>
-
-Makers, London UK
-* Successfully completed training in various production languages, testing frameworks and databases.
-* Focused on Agile methods, as well as Test Driven Development, SOLID and extreme programming values.
-* Completed process workshops and code reviews by external parties
-* Improved technical knowledge and abilities; and enhanced vital skills in teamwork, emotional intelligence and coding best practices.
-
-CONSTRUCTION MANAGEMENT<br>
-
-Multiple companies, 2003 - 2021
-* Managed Contractor Operations on construction projects across various industry sectors (Petrochemical, Oil & Gas, Power Generation & Transmission, Railway, etc.).
-* My last position held was a Health, Safety and Logistics Manager for a large residential and commercial developer.
+|&emsp;London (Relocating) - Open to Remote&emsp;|&emsp;jpferreira1982@gmail.com&emsp;|&emsp;+61 448 770 551&emsp;|&emsp;[LinkedIn](https://www.linkedin.com/in/jean-pierre-ferreira/)&emsp;|&emsp;[GitHub](https://github.com/GoWebMe2020/GoWebMe2020)&emsp;|
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoWebMe2020&show_icons=true&theme=radical&count_private=true)
+## Profile
+
+Senior-level full-stack engineer with 5+ years of experience delivering scalable web applications and owning systems end-to-end. Strong background in React, TypeScript, Node.js, and Ruby on Rails, with a focus on performance optimisation, system reliability, and developer experience.
+
+Recognised as a go-to engineer for complex systems, with a track record of improving product quality, leading engineering initiatives, and delivering measurable business impact.
 
 ---
 
-# Skills<a name="ski"></a>
-<br>
+## Key Achievements
 
-Ruby:
-<img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+* Increased customer satisfaction (CSAT) from 7 to 60 by redesigning UX and improving backend data accuracy
+* Reduced infrastructure costs by ~10% through database query optimisation and indexing
+* Maintained 99.99% uptime across a production system serving ~18,000 users single-handedly 
+* Acted as primary system owner and domain expert for a business-critical platform 
+* Designed scalable system architecture across frontend, backend, and microservices
+* Introduced TypeScript enforcement and CI quality gates, improving codebase maintainability
+* Built AI-powered prototype for dynamic content generation, replacing static templates
 
-Ruby on Rails:
-<img src="https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+---
 
-React:
-<img src="https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+## Experience
 
-HTML:
-<img src="https://geps.dev/progress/85?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+### Software Engineer (Senior-Level Responsibilities)
+**Domain & CoStar Group** - Melbourne Australia | Feb 2024 – Present
 
-CSS / SCSS:
-<img src="https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+* Owned the Engage platform, a property proposal system used by ~18,000 users
+* Led improvements to product UX and backend data mapping, significantly improving customer satisfaction (CSAT 7 → 60)
+* Identified and optimised high-cost database queries (projects#index, proposal#show)
+  * Introduced indexing and query simplification
+  * Reduced infrastructure usage and costs by ~10%
+* Maintained 99.99% uptime, resolving production incidents within the same working day
+* Designed and built Node.js microservices to support data transformation and visualisation
+* Improved external API integrations, ensuring consistent and reliable data mapping
+* Migrated legacy frontend code to TypeScript, enforcing strict typing through CI pipelines
+* Deprecated custom state management in favour of standard React patterns
+* Introduced engineering process improvements, including PR standards and workflow changes
+* Acted as the go-to engineer, supporting onboarding and providing system-level guidance
+* Contributed to organisation-wide Bitbucket → GitHub migration
+* Contributed to systems supporting products with ~70,000 users and ~$20m annual revenue
+* Designed and implemented an AI-assisted development workflow with governance controls to enforce coding standards and improve PR review consistency
+  * Designed a multi-repo AI context system, enabling shared visibility across frontend and backend
+  * Implemented repository-level “skills” to enforce coding standards, architecture rules, and best practices
+  * Integrated AI into PR reviews to improve consistency and reduce review overhead
+  * Ensured human accountability remained central, with AI supporting, not replacing, engineering decisions
+  * Introduced safeguards against low-quality AI-generated code (“AI slop”) 
 
-JavaScript:
-<img src="https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+---
 
-SQL:
-<img src="https://geps.dev/progress/65?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+**Freelance Software Engineer / Product Builder** | Sep 2021 – Present
 
-RSpec / Capybara:
-<img src="https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+* Kardz
+  * Built AI-powered platform using React, Next.js, and Rails
+  * Designed scalable backend APIs and integrated AI services
+  * Implemented AWS-based infrastructure with Docker
 
-Elm:
-<img src="https://geps.dev/progress/70?dangerColor=800000&warningColor=ff9900&successColor=006600" alt="Progress"><br>
+* AI Marketing Platform
+  * Built AI-driven product enabling businesses to optimise marketing strategies
 
-# Education<a name="edu"></a>
+* Client Projects
+  * Delivered full-stack platforms including CMS and recruitment systems
+  * Implemented SEO strategies resulting in first-page Google rankings within 6 months
 
-### **Makers Academy** (July 2021)
+---
 
-&emsp;Succesfully completed the Makers Academy Bootcamp.
-<details closed>
-  <summary>&emsp;Details</summary>
-  <ul>
-    <li>Successfully completed training in many production languages, testing frameworks and databases including Ruby,
-  Ruby on Rails, Javascript, RSpec, Capybara, Jasmine, Git, Command Line, PostgreSQL and Mongo DB</li>
-    <li>Focused on working in an Agile manner, as well as Test Driven Development, SOLID and extreme programming values</li>
-    <li>Completed process workshops and code reviews by external parties. These confirmed clear, easy to read code and a
-  methodical approach to problem solving</li>
-    <li>Improved technical knowledge and abilities; and enhanced vital skills in teamwork, emotional intelligence and coding
-  best practice</li>
-    <li>Invited to design and present workshops to cohort members on CSS</li>
-    <li>Selected as a mentor for new Makers students</li>
-  </ul>
-</details>
+**Software Engineer**
 
-### **Other /Courses**
+**BridgeU** - London United Kingdom | Oct 2021 – May 2023
 
-*	Comprehensive Ruby Programming / Web Development Bootcamp / SQL – <em>Udemy</em>
-*	Learn Git / Learn the Command Line / Learn Ruby – <em>Codecademy</em>
-*	Intro to Elm, Advanced Elm - <em>FrontendMasters</em>
-<br>
+Promoted from Associate to Software Engineer within 15 months
+Developed backend features using Ruby on Rails
+Built frontend features in Elm, improving UX and performance
+Improved CI reliability and test stability
+Led knowledge-sharing workshops and contributed to team development
 
-# Hobbies<a name="hob"></a>
-Since I started coding, I do enjoy sometimes practicing different methods and techiniques of development. In the summer months I also enjoy being outdoors. I have spent a lot of time around wildlife and camping. From time-to-time I also find myself lost online in an imaginary world. And, every chance I get, I enjoy a good day or night out with friends and family.
-<br>
+---
+
+**Earlier Career: Construction Management** | 2003 – 2021
+
+* Managed large-scale infrastructure projects across multiple industries
+* Developed strong stakeholder management and delivery skills
+
+---
+
+## Projects
+
+**ClauseQ (Founder / Builder)**
+
+* Building AI-powered SaaS platform to prevent missed contract deadlines
+* Designed full-stack architecture with background job processing
+* Implemented AI-assisted document parsing with user validation
+* Integrated Stripe billing and multi-tenant workspaces
+* MVP nearing completion
+
+---
+
+## Technical Skills
+
+* Languages & Frameworks:
+  * TypeScript, JavaScript, Ruby, Node.js, Ruby on Rails, React, Next.js, Elm
+
+* Architecture & Systems:
+  * Microservices, REST APIs, System Design, Data Modelling
+
+* DevOps & Tools:
+  * AWS, Docker, CI/CD, GitHub, Prisma, PostgreSQL, Fly.io, Heroku
+
+* Other:
+  * AI integrations (OpenAI), Testing (Jest, RSpec, Capybara), Claude
+
+---
+
+## Education
+
+* Makers Academy - Software Engineering Bootcamp
+
+
