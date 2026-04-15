@@ -7,9 +7,21 @@
 
 ## Profile
 
-Senior-level full-stack engineer with 5+ years of experience delivering scalable web applications and owning systems end-to-end. Strong background in React, TypeScript, Node.js, and Ruby on Rails, with a focus on performance optimisation, system reliability, and developer experience.
+I’m a full-stack software engineer with 5+ years of experience building and scaling production systems across React, TypeScript, Node.js, and Ruby on Rails.
 
-Recognised as a go-to engineer for complex systems, with a track record of improving product quality, leading engineering initiatives, and delivering measurable business impact.
+I specialise in owning systems end-to-end, improving performance, reliability, and user experience while delivering measurable business impact.
+
+At Domain (CoStar Group), I became the go-to engineer for the Engage platform, a property proposal system used by ~18,000 users. I led improvements across frontend, backend, and microservices, including:
+  - Increasing customer satisfaction (CSAT) from 7 -> 60 by improving UX and data accuracy 
+  - Reducing infrastructure costs by ~10% through database optimisation and query performance improvements
+  - Maintaining 99.99% uptime across a production system 
+  - Designing and delivering microservices for data ingestion, transformation, and visualisation 
+ 
+I also introduced an AI-assisted development workflow, integrating structured repository-level rules to improve code quality and streamline PR reviews, while ensuring human accountability remained central.
+ 
+Alongside my role, I build products independently, including ClauseQ, an AI-powered SaaS platform designed to prevent costly contract auto-renewals.
+ 
+I enjoy working in environments where I can take ownership, solve complex problems, and build systems that have real-world impact.
 
 ---
 
@@ -31,7 +43,7 @@ Recognised as a go-to engineer for complex systems, with a track record of impro
 **Domain & CoStar Group** - Melbourne Australia | Feb 2024 – Present
 
 * Owned the Engage platform, a property proposal system used by ~18,000 users
-* Led improvements to product UX and backend data mapping, significantly improving customer satisfaction (CSAT 7 → 60)
+* Led improvements to product UX and backend data mapping, significantly improving customer satisfaction (CSAT 7 -> 60)
 * Identified and optimised high-cost database queries (projects#index, proposal#show)
   * Introduced indexing and query simplification
   * Reduced infrastructure usage and costs by ~10%
@@ -42,7 +54,7 @@ Recognised as a go-to engineer for complex systems, with a track record of impro
 * Deprecated custom state management in favour of standard React patterns
 * Introduced engineering process improvements, including PR standards and workflow changes
 * Acted as the go-to engineer, supporting onboarding and providing system-level guidance
-* Contributed to organisation-wide Bitbucket → GitHub migration
+* Contributed to organisation-wide Bitbucket -> GitHub migration
 * Contributed to systems supporting products with ~70,000 users and ~$20m annual revenue
 * Designed and implemented an AI-assisted development workflow with governance controls to enforce coding standards and improve PR review consistency
   * Designed a multi-repo AI context system, enabling shared visibility across frontend and backend
