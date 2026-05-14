@@ -4,7 +4,7 @@
 
 ### Engineer who ships, manager who listens, builder who can't sit still.
 
-Full-stack engineer with 5+ years building production systems in **TypeScript, React, Node, and Ruby on Rails** — and growing depth in **Python and Django**. Before software, eighteen years of construction project management taught me what owning outcomes, not just tasks, actually looks like.
+Full-stack engineer with 5+ years' experience building production systems in **TypeScript, React, Node, and Ruby on Rails** — and growing depth in **Python and Django**. Before software, eighteen years of construction project management taught me what owning outcomes, not just tasks, actually looks like.
 
 Currently in **Melbourne** · Relocating to **London** in **October 2026** · Right to Work in the UK (Settled Status)
 
