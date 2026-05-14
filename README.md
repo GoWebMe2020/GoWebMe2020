@@ -2,7 +2,7 @@
 
 `// software engineer · london incoming`
 
-### Engineer who ships, manager who listens, builder who can't sit still.
+### Engineer who ships, manager who listens, builder who turns ideas into products.
 
 Full-stack engineer with 5+ years' experience building production systems in **TypeScript, React, Node, and Ruby on Rails** — and growing depth in **Python and Django**. Before software, eighteen years of construction project management taught me what owning outcomes, not just tasks, actually looks like.
 
