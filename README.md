@@ -1,135 +1,75 @@
-## JP Ferreira
-#### Senior Software Engineer
+# Hi, I'm JP 👋
 
-|&emsp;London (Relocating) - Open to Remote&emsp;|&emsp;jpferreira1982@gmail.com&emsp;|&emsp;+61 448 770 551&emsp;|&emsp;[LinkedIn](https://www.linkedin.com/in/jean-pierre-ferreira/)&emsp;|&emsp;[GitHub](https://github.com/GoWebMe2020/GoWebMe2020)&emsp;|
+`// software engineer · london incoming`
 
----
+### Engineer who ships, manager who listens, builder who can't sit still.
 
-## Profile
+Full-stack engineer with 5+ years building production systems in **TypeScript, React, Node, and Ruby on Rails** — and growing depth in **Python and Django**. Before software, eighteen years of construction project management taught me what owning outcomes, not just tasks, actually looks like.
 
-I’m a full-stack software engineer with 5+ years of experience building and scaling production systems across React, TypeScript, Node.js, and Ruby on Rails.
+Currently in **Melbourne** · Relocating to **London** in **October 2026** · Right to Work in the UK (Settled Status)
 
-I specialise in owning systems end-to-end, improving performance, reliability, and user experience while delivering measurable business impact.
-
-At Domain (CoStar Group), I became the go-to engineer for the Engage platform, a property proposal system used by ~18,000 users. I led improvements across frontend, backend, and microservices, including:
-  - Increasing customer satisfaction (CSAT) from 7 -> 60 by improving UX and data accuracy 
-  - Reducing infrastructure costs by ~10% through database optimisation and query performance improvements
-  - Maintaining 99.99% uptime across a production system 
-  - Designing and delivering microservices for data ingestion, transformation, and visualisation 
- 
-I also introduced an AI-assisted development workflow, integrating structured repository-level rules to improve code quality and streamline PR reviews, while ensuring human accountability remained central.
- 
-Alongside my role, I build products independently, including ClauseQ, an AI-powered SaaS platform designed to prevent costly contract auto-renewals.
- 
-I enjoy working in environments where I can take ownership, solve complex problems, and build systems that have real-world impact.
+🌐 **[jpferreira.com](https://www.jpferreira.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/jean-pierre-ferreira/)** · ✍️ **[Writing](https://www.jpferreira.com/writing)**
 
 ---
 
-## Key Achievements
+## `// about`
 
-* Increased customer satisfaction (CSAT) from 7 to 60 by redesigning UX and improving backend data accuracy
-* Reduced infrastructure costs by ~10% through database query optimisation and indexing
-* Maintained 99.99% uptime across a production system serving ~18,000 users single-handedly 
-* Acted as primary system owner and domain expert for a business-critical platform 
-* Designed scalable system architecture across frontend, backend, and microservices
-* Introduced TypeScript enforcement and CI quality gates, improving codebase maintainability
-* Built AI-powered prototype for dynamic content generation, replacing static templates
+I came into software engineering after eighteen years managing construction and infrastructure projects across Southern Africa and the UK. That earlier career taught me how to own things end-to-end — stakeholders, budgets, deadlines, the awkward conversations, the moments where the plan meets reality. I carry all of that into engineering work.
+
+Today I'm the kind of engineer who likes being the go-to person on a system: the one who knows where the bodies are buried, who picks up the on-call page, who reviews the messy PR carefully. I work fluently with AI coding tools, and I've designed governance systems around them in production — the kind of work where the goal is *AI assists, humans decide*.
+
+Outside the code, I'm the one who organises the lunches, the after-work drinks, the team dinners that turn colleagues into friends. Culture is something engineers build together. I bring presence to it every day.
 
 ---
 
-## Experience
+## `// currently building`
 
-### Software Engineer (Senior-Level Responsibilities)
-**Domain & CoStar Group** - Melbourne Australia | Feb 2024 – Present
+🚀 **[Invitify](https://www.jpferreira.com/projects/invitify)** — Modern event-invitation and RSVP platform. Pay-per-event, no guest accounts, built end-to-end as a solo founder. *Shipping July 2026.*
+`Next.js` `TypeScript` `Django` `PostgreSQL` `Stripe` `Celery`
 
-* Owned the Engage platform, a property proposal system used by ~18,000 users
-* Led improvements to product UX and backend data mapping, significantly improving customer satisfaction (CSAT 7 -> 60)
-* Identified and optimised high-cost database queries (projects#index, proposal#show)
-  * Introduced indexing and query simplification
-  * Reduced infrastructure usage and costs by ~10%
-* Maintained 99.99% uptime, resolving production incidents within the same working day
-* Designed and built Node.js microservices to support data transformation and visualisation
-* Improved external API integrations, ensuring consistent and reliable data mapping
-* Migrated legacy frontend code to TypeScript, enforcing strict typing through CI pipelines
-* Deprecated custom state management in favour of standard React patterns
-* Introduced engineering process improvements, including PR standards and workflow changes
-* Acted as the go-to engineer, supporting onboarding and providing system-level guidance
-* Contributed to organisation-wide Bitbucket -> GitHub migration
-* Contributed to systems supporting products with ~70,000 users and ~$20m annual revenue
-* Designed and implemented an AI-assisted development workflow with governance controls to enforce coding standards and improve PR review consistency
-  * Designed a multi-repo AI context system, enabling shared visibility across frontend and backend
-  * Implemented repository-level “skills” to enforce coding standards, architecture rules, and best practices
-  * Integrated AI into PR reviews to improve consistency and reduce review overhead
-  * Ensured human accountability remained central, with AI supporting, not replacing, engineering decisions
-  * Introduced safeguards against low-quality AI-generated code (“AI slop”) 
+🧾 **[ClauseQ](https://www.jpferreira.com/projects/clauseq)** — AI-powered SaaS that prevents missed contract deadlines. Document parsing with human-in-the-loop validation, multi-tenant workspaces, Stripe billing. *Shipping September 2026.*
+`Next.js` `TypeScript` `Django` `PostgreSQL` `Anthropic Claude` `OpenAI`
+
+🏗 **AI governance at Domain.com.au** — Designed and led the rollout of AI-assisted PR review workflows and engineering guardrails. Lifted NPS from 7% to 60% on a separate platform-ownership initiative. *Read the [case study →](https://www.jpferreira.com/projects/domain)*
 
 ---
 
-**Freelance Software Engineer / Product Builder** | Sep 2021 – Present
+## `// the stack, in plain english`
 
-* Kardz
-  * Built AI-powered platform using React, Next.js, and Rails
-  * Designed scalable backend APIs and integrated AI services
-  * Implemented AWS-based infrastructure with Docker
-
-* AI Marketing Platform
-  * Built AI-driven product enabling businesses to optimise marketing strategies
-
-* Client Projects
-  * Delivered full-stack platforms including CMS and recruitment systems
-  * Implemented SEO strategies resulting in first-page Google rankings within 6 months
+* **What I reach for first** — TypeScript, JavaScript, Python, Ruby, SQL, Node
+* **Backend & APIs** — Django, Django REST Framework, Ruby on Rails
+* **Frontend** — React, Next.js, Vue, Elm, Tailwind
+* **Where things run** — PostgreSQL, AWS, Docker, Vercel, Fly.io, Heroku
+* **AI & quality** — Anthropic Claude, OpenAI, AI governance design, RSpec, pytest, Cypress, Jest
 
 ---
 
-**Software Engineer**
+## `// writing`
 
-**BridgeU** - London United Kingdom | Oct 2021 – May 2023
+📝 **[AI assists, humans decide: building review workflows that don't rot](https://www.jpferreira.com/writing/ai-assists-humans-decide)** — How I designed AI-assisted PR review at Domain — and why the hardest part wasn't the tooling, it was keeping humans genuinely accountable.
 
-Promoted from Associate to Software Engineer within 15 months
-Developed backend features using Ruby on Rails
-Built frontend features in Elm, improving UX and performance
-Improved CI reliability and test stability
-Led knowledge-sharing workshops and contributed to team development
+*Two more pieces in draft: "What construction project management taught me about shipping software" and "On being a polyglot engineer in a language-loyal industry."*
 
 ---
 
-**Earlier Career: Construction Management** | 2003 – 2021
+## `// stats`
 
-* Managed large-scale infrastructure projects across multiple industries
-* Developed strong stakeholder management and delivery skills
+<div align="center">
 
----
+![JP's GitHub streak](https://streak-stats.demolab.com?user=GoWebMe2020&theme=tokyonight&hide_border=true)
 
-## Projects
+![Trophies](https://github-profile-trophy.vercel.app/?username=GoWebMe2020&theme=tokyonight&no-frame=true&column=7&margin-w=10)
 
-**ClauseQ (Founder / Builder)**
-
-* Building AI-powered SaaS platform to prevent missed contract deadlines
-* Designed full-stack architecture with background job processing
-* Implemented AI-assisted document parsing with user validation
-* Integrated Stripe billing and multi-tenant workspaces
-* MVP nearing completion
+</div>
 
 ---
 
-## Technical Skills
+## `// say hello`
 
-* Languages & Frameworks:
-  * TypeScript, JavaScript, Ruby, Node.js, Ruby on Rails, React, Next.js, Elm
+I'm actively looking for **senior full-stack or AI engineering roles** in London, starting October 2026. Open to senior conversations before then.
 
-* Architecture & Systems:
-  * Microservices, REST APIs, System Design, Data Modelling
-
-* DevOps & Tools:
-  * AWS, Docker, CI/CD, GitHub, Prisma, PostgreSQL, Fly.io, Heroku
-
-* Other:
-  * AI integrations (OpenAI), Testing (Jest, RSpec, Capybara), Claude
+📬 Reach me through the contact form on **[jpferreira.com](https://www.jpferreira.com/#contact)** — CV available on request.
 
 ---
 
-## Education
-
-* Makers Academy - Software Engineering Bootcamp
-
-
+<sub>Built with care. Designed in the dark.</sub>
