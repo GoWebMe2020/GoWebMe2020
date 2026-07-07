@@ -2,7 +2,7 @@
 
 `// software engineer · london incoming`
 
-### Engineer who ships, manager who listens, builder who turns ideas into products.
+### Engineer who ships, systems owner who's accountable, builder who turns ideas into products.
 
 Full-stack engineer with 5+ years' experience building production systems in **TypeScript, React, Node, and Ruby on Rails** - and growing depth in **Python and Django**. Before software, eighteen years of construction project management taught me what owning outcomes, not just tasks, actually looks like.
 
@@ -36,7 +36,9 @@ AI-powered SaaS that prevents missed contract deadlines. Document parsing with h
 
 `Next.js` `TypeScript` `Tailwind CSS` `Ruby` `Ruby on Rails` `PostgreSQL` `Stripe` `Anthropic Claude` `OpenAI` `Sidekiq` `Redis`
 
-🏗 **AI governance at Domain.com.au** - Designed and led the rollout of AI-assisted PR review workflows and engineering guardrails. Lifted NPS from 7% to 60% on a separate platform-ownership initiative. *Read the [case study →](https://www.jpferreira.com/projects/domain)*
+🏗 **AI governance at Domain.com.au** - Designed and led the rollout of AI-assisted PR review workflows and engineering guardrails. *Read the [case study →](https://www.jpferreira.com/projects/domain)*
+
+📈 **Platform ownership at Domain.com.au** - Sole owner of the Engage platform (~18,000 users). Lifted NPS from 7% to 60%.
 
 ---
 
