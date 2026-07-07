@@ -62,18 +62,6 @@ AI-powered SaaS that prevents missed contract deadlines. Document parsing with h
 
 ---
 
-## `// stats`
-
-<div align="center">
-
-![JP's GitHub streak](https://streak-stats.demolab.com?user=GoWebMe2020&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=GoWebMe2020&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## `// say hello`
 
 I'm actively looking for **senior full-stack or AI engineering roles** in London, starting October 2026. Open to senior conversations before then.
