@@ -36,7 +36,13 @@ AI-powered SaaS that prevents missed contract deadlines. Document parsing with h
 
 `Next.js` `TypeScript` `Tailwind CSS` `Ruby` `Ruby on Rails` `PostgreSQL` `Stripe` `Anthropic Claude` `OpenAI` `Sidekiq` `Redis`
 
-🏗 **AI governance at Domain.com.au** - Designed and led the rollout of AI-assisted PR review workflows and engineering guardrails. *Read the [case study →](https://www.jpferreira.com/projects/domain)*
+**References**
+* Frontend Repo: https://github.com/GoWebMe2020/clauseq_client
+* Backend Repo: https://github.com/GoWebMe2020/clauseq_api
+
+🏗 **Domain.com.au** - *AI governance*
+
+Designed and led the rollout of AI-assisted PR review workflows and engineering guardrails. *Read the [case study →](https://www.jpferreira.com/projects/domain)*
 
 📈 **Platform ownership at Domain.com.au** - Sole owner of the Engage platform (~18,000 users). Lifted NPS from 7% to 60%.
 
